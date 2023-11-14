@@ -112,7 +112,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://github.com/U-n-Own/U-N-Own.github.io"
+baseurl: "https://u-n-own.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
