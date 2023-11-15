@@ -14,7 +14,7 @@ $$
 
 # Images are Easy
 
-![SARSA](/posts/FirstPost/assets/imgs/sarsa.png)
+![SARSA](/assets/img/sample/sarsa.png)
 _What did you expect?_
 
 # Code is Easy
