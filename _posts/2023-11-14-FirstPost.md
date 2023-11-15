@@ -1,5 +1,5 @@
 ---
-title: FirstPost
+title: First Post
 date: 2023-11-14 15:00:00 +0800
 categories: [Personal, Blog]
 tags: [blog]     # TAG names should always be lowercase
@@ -26,4 +26,7 @@ def sarsa():
     return np.random.rand()
 ```
 
+# Video are Easy
+
+{% include embed/youtube.html id='dQw4w9WgXcQ' %}
 
