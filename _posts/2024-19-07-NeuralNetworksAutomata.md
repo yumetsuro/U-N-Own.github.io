@@ -18,7 +18,8 @@ Want to approximate a function from a $\mathcal{D}$ distribution $p(x,y)$ (data 
 In short compose a linear transformation $W$ over input space $X$ and apply a non-linear function $\sigma$ to it. Now repeat stacking layers $l$ and you have a "deep neural network". More units per layer $\rightarrow$ less layers needed. Just learn the linear transformation! 
 In theory you can even learn the non-linearities [(KAN)](https://arxiv.org/html/2404.19756v1)
 
-Micheal Nielsen's book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a good starting point.
+Micheal Nielsen's book [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/) is a good starting point.
+
 
 $$
 \begin{aligned}
