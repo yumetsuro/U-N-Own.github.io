@@ -1,8 +1,8 @@
 ---
 title: Neural Networks, Cellular Automata and Brain
-date: 2024-19-07 9:56:00 +0800
+date: 2024-07-19 11:06:00 +0800
 categories: [Personal, Blog]
-tags: [blog, math, machinelearning]     # TAG names should always be lowercase
+tags: [blog, math]     # TAG names should always be lowercase
 math: true
 ---
 
