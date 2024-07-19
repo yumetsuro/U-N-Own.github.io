@@ -20,7 +20,7 @@ I play guitar, i don't currently have particular project but i'm eager to start 
 Still learning, i can't draw from scratch but i'm good at drawing from references. I'm intrested in **Digital Art** and restoring part of manga panels, coloring them and so on.
 
 ## My Socials
-Here i'll post, music and art and myself. Yeah i'm megalomaniac.
+Here i'll post, music and art and myself.
 [Instagram]: https://www.instagram.com/cenzogargano/
 
 <!---
