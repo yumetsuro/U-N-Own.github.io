@@ -6,21 +6,21 @@ order: 4
 ---
 
 ## About me
-Hi my name's Vincenzo Gargano i'm a student, self taught musician/artist and some other stuff i can't remember because i'm bad at...
+I'm Vincenzo Gargano i'm a student in Artificial Intelligence, self taught musician and artist.
 
 In this website i'll write about music, art, science and all the stuff i'm intrested in and i think it's worth sharing. Trying maybe to connect them in some way.
 
 ## My Studies
 I'm currently enrolled in AI master degree in **UniPi** (Pisa, Italy). I'm currently self studying **Computational Neuroscience** and **Dynamical and Complex Systems**. I'm intrested in connections between those two fields and *broadly speaking*: **Machine Learning**. During my master degree i've discovered about how much important is **Probability/Statistical learning theory** for AI methods so i'll focus on that too.
 
-## My Music
+# My passions
+
 I play guitar, i don't currently have particular project but i'm eager to start one. I'm intrested in **Jazz Fusion**, **Funk** and bubbly sounding things. I'm also intrested in **Electronic Music** and **Sound Design**, maybe in future i'll study something to start doing some production.
 
-## My Art
-Still learning, i can't draw from scratch but i'm good at drawing from references. I'm intrested in **Digital Art** and restoring part of manga panels, coloring them and so on.
+I'm really good at drawing from references. I'm intrested in **Digital Art** and restoring and coloring my favourite manga panels. Applying math to art is something i'm into too, creating shaders or art programming like live music coding. 
 
 ## My Socials
-Here i'll post, music and art and myself.
+Here i'll post, music and art.
 [Instagram]: https://www.instagram.com/cenzogargano/
 
 <!---
