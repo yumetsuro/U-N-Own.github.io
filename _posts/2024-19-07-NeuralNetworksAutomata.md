@@ -71,6 +71,10 @@ $$
 From the book [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) we get simple idea of dividing our brain in a fast taks solving system and a slow one for new task and complex problem.
 
 - The System I is more intuitive, biased and lazy. It's the one we use when we have to walk, drive, talk about shit and so on...
-- System II is more refined, comes to play when we have to do effortful thinking, learn a new skill or derive the KL-divergence.
+- System II is more refined, it comes into play when we have to do effortful thinking, learn a new skill or derive some complicated formulae that requires more steps than just applying a definition.
 
-### WiP...
+## Self-Organized systems
+
+Those are systems that achieve *complexity* from *simplicity*, an example is the aforementioned **Game of Life**, local behaviour of a cell has global influence on all the others. There isn't a central controller where the information about the system is stored or processed but it's all spreaded among the simple pieces.
+
+### WIP
